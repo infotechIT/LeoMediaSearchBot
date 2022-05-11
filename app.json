@@ -13,8 +13,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Naviya2/LeoMediaSearchBot",
-    "repository": "https://github.com/Naviya2/LeoMediaSearchBot",
+    "website": "https://github.com/infotechIT/LeoMediaSearchBot",
+    "repository": "https://github.com/infotechIT/LeoMediaSearchBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -30,11 +30,11 @@
             "required": true
         },
         "APP_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Get this value from TGORGXBOT",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Get this value from TGORGXBOT",
             "value": ""
         },
         "BOT_OWNER": {
@@ -76,7 +76,7 @@
         },
         "START_MSG": {
             "description": "A Massege for view at start. If you want to change it you can change it here",
-            "value": "**Hi {}👋\n\nI'm Leo Media Search Bot**\n\nYou can start searching by the 'Search Media 🔎' button below 😊",
+            "value": "**Hi {}👋\n\nI'm Media Search Bot**\n\nYou can start searching by the 'Search Media 🔎' button below 😊",
             "required": false
         },
         "SHARE_BUTTON_TEXT": {
