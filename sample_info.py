@@ -26,10 +26,10 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 START_MSG = """
 **Hi {}👋
 
-I'm Leo Media Search Bot**
+I'm Movie Bot**
 
 You can start searching by the "Search Media 🔎
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'You cant use this bot untill you join our bot🙁 So please join our Updates Channel 🇱🇰'
+INVITE_MSG = 'You cant use this bot until you join our channel🙁 So please join our Updates Channel'
