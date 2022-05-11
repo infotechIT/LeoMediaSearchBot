@@ -48,20 +48,20 @@ SESSION_NAME = os.environ.get("SESSION_NAME", "LeoMediaSearchBot")
 default_start_massege = """
 **Hi {}👋
 
-I'm Leo Media Search Bot**
+I'm Movie Bot**
 
 You can start searching by the "Search Media 🔎" button below 😊
 """
 
 default_share_button_text = """
-Leo Media Search Bot 🇱🇰
+Movie Bot
 
 Here you can find any media file by searching its name 😊
 
 Bot : {username} 🤖
-Support Group : @leosupportx 🇱🇰
-Updates Channel: @new_ehi 🇱🇰
-Developper : @naviya2 🇱🇰
+Support Group : @It_Bot_supporters
+Updates Channel: @infotechIT
+Developper : @alxneboy
 """
 
 START_MSG = environ.get('START_MSG', default_start_massege)
