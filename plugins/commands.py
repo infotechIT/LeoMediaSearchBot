@@ -40,11 +40,11 @@ async def start(bot, message):
     else:
         buttons = [
             [
-                InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/new_ehi'),
+                InlineKeyboardButton('Search Media 🔎', switch_inline_query_current_chat=''),
                 InlineKeyboardButton('Go Inline 🎭', switch_inline_query=''),
             ],
             [
-                InlineKeyboardButton('Search Media 🔎', switch_inline_query_current_chat=''),
+                InlineKeyboardButton('Updates Channel 🗣', url='https://t.me/infotechIT'),
             ],
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
