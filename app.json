@@ -1,5 +1,5 @@
 {
-    "name": "Leo Media Search Bot",
+    "name": "Media Search Bot",
     "description": "When you going to send file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode",
     "logo": "https://telegra.ph/file/c705fac44db2b8d7f47e7.jpg",
     "keywords": [
@@ -76,12 +76,12 @@
         },
         "START_MSG": {
             "description": "A Massege for view at start. If you want to change it you can change it here",
-            "value": "**Hi {}👋\n\nI'm Media Search Bot**\n\nYou can start searching by the 'Search Media 🔎' button below 😊",
+            "value": "**Hi {}👋\n\nI'm Movie Bot**\n\nYou can start searching by the 'Search Media 🔎' button below 😊",
             "required": false
         },
         "SHARE_BUTTON_TEXT": {
             "description": "A Massege for add to share button. If you want to change it you can change it here",
-            "value": "**Leo Media Search Bot 🇱🇰**\n\n`Here you can find any media file by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @leosupportx 🇱🇰\nUpdates Channel: @new_ehi 🇱🇰\nDevelopper : @naviya2 🇱🇰",
+            "value": "**Movie Searcher Bot**\n\n`Here you can find any media file by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @IT_Bot_supporters \nUpdates Channel: @infotechIT \nDevelopper : @alxneboy",
             "required": false
         },
         "USE_CAPTION_FILTER": {
